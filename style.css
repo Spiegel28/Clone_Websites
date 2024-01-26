@@ -1,5 +1,4 @@
 .syrup {
-    max-height: 45vh;
     width: 11vh
 }
 
@@ -13,4 +12,7 @@
     background-color: rgba(165, 83, 83, 0.589);
     background-blend-mode: color;
     border-bottom: 10px solid rgb(231, 231, 231);
+}
+.pic {
+    max-width: 30vh;
 }
