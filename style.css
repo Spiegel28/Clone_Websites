@@ -1,7 +1,16 @@
 .syrup {
     max-height: 45vh;
+    width: 11vh
 }
 
 .bgc {
     background-color: #d56a46;
+}
+/* Joaquin helped me here with his code since I couldnt figure it out */
+.main-background{
+    background-image: url(https://images.unsplash.com/photo-1597113366853-fea190b6cd82?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+    background-attachment: fixed;
+    background-color: rgba(165, 83, 83, 0.589);
+    background-blend-mode: color;
+    border-bottom: 10px solid rgb(231, 231, 231);
 }
